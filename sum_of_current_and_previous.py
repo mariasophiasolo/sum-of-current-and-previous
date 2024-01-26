@@ -5,7 +5,7 @@ print ("Printing current and previous number sum in range (10)")
 previous_number = 0
 
 # repeat the first 10 numbers
-for i in range (0,10):
+for i in range (1,10):
 
 # then calculate for the sum of the current and previous number
     sum = previous_number + i
